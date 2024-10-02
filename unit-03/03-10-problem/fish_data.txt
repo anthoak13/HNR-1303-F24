@@ -1,4 +1,4 @@
-lead (ppm)  zinc (ppm)
+lead (ppm)	zinc (ppm)
 0.73	45.3
 1.14	50.8
 0.60	40.2
