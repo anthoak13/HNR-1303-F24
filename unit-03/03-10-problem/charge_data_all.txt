@@ -1,4 +1,4 @@
-width (TB)	charge (arb. units)
+width (TB)	voltage (arb. units)
 2	5.60263
 3	3.88494
 4	3.0484
