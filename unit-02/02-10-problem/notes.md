@@ -1,0 +1,1 @@
+A potential future problem is the Coupon collectors problem. But that would need to be quite heavily scaffolded I think. 
