@@ -1,4 +1,4 @@
-Number of Stages	Average Distance (mm)
+Stages	Distance (mm)
 1	1.00
 5	2.02
 10	2.85
