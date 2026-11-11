@@ -2,9 +2,9 @@
 
 ## Overview
 
-The Unit 5 group assessment is a live debate on Wednesday, December 2 (Day 29). You will be assigned to a team of five. Two teams will debate Resolution A and the other two will debate Resolution B.
+The Unit 5 group assessment is a live debate on Wednesday, December 2 (Day 29). You will be assigned to a team of five next Monday. Two teams will debate Resolution A and the other two will debate Resolution B.
 
-Your team will be assigned to a resolution and side. You may be given a side you personally disagree with and your job is to make the best case for it.
+Your team will be assigned to a resolution and side. You may be given a side you personally disagree with and your job is to make the best case for it. This document reflects my current plan for the debate. As the rubric and rest of the documents get written, some details may change.
 
 ## Resolutions
 
