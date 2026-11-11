@@ -104,7 +104,44 @@ Due Monday 11/30 (one per person). You should share this with me and your team. 
 | Mon 11/30 | Debate prep documents due; prep time in class |
 | Wed 12/2 | Debates |
 
-## Still to decide (remove before handing out)
+# Practice debate
 
-- Whether audience scores count toward the debaters' grade, and what the scoresheet asks.
-- The rubric.
+So the first time you ever *do* a debate isn't graded, we'll run a practice debate based on the pre-class work from today. Teams will be assigned "randomly" (each partner on opposite sides of the same debate).
+
+**Resolution: An HPU admissions AI can be created equitably.**
+
+You already wrote about this in the pre-class, so use your answers.
+
+### Setup (10 min)
+
+1. You will be put on a team of five and assigned a side (affirmative or negative). 
+2. As a team, decide who takes each role: opening, first argument, second argument, cross-examiner, closer.
+3. Agree on your two main arguments. Each one needs a basis in the People's Guide reading or your pre-class answers. You do not need outside sources for this debate.
+
+### The debate (about 15 min)
+
+We will flip a coin to decide which team goes first. That team also closes last. I will call time for each step.
+
+| Step | Who speaks | Time |
+| --- | --- | --- |
+| 1. Opening | First team, then second team | 1 min each |
+| 2. First argument | First team, then second team | 1 min each |
+| 3. Second argument | First team, then second team | 1 min each |
+| 4. Cross-examination | Second team's examiner questions the first team, then the first team's examiner questions the second team | 3 questions each, 30 sec per answer |
+| 5. Preparation break | Both teams confer | 2 min |
+| 6. Closing | Second team, then first team | 1 min each |
+
+The rules are the same as in the debate description:
+
+- The opening states your team's position and defines the key terms.
+- The cross-examiner asks questions only, with at least one question to each of the other team's first three speakers.
+- If you are asked a question, you answer it yourself.
+- The closer responds to at least one argument the other team made and one point from the cross-examination. No new arguments.
+
+### Afterward
+
+Be ready to tell me:
+
+- Which part was harder than you expected?
+- What would you do differently with a week to prepare?
+
